@@ -188,7 +188,7 @@ jupyter notebook eda.ipynb
 ```
 ├─ README.md
 ├─ eda.ipynb
-├─ docs/                       # project documentation (this content)
+├─ docs/                
 ├─ requirements.txt
 ├─ data/
 │  ├─ debit_transactions.csv
