@@ -4,8 +4,8 @@
 
 [![Project Status](https://img.shields.io/badge/status-Prototype-yellow)](https://github.com) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Made by Team Mathemarizz](https://img.shields.io/badge/team-Mathemarizz-lightgrey)
 
-> **Philippine Junior Data Science Challenge 2 (Hackathon)**  
-> Segmentation of BPI customers in far-flung areas using RFM Analysis + K‑Means (with PCA).
+ **Philippine Junior Data Science Challenge 2 (Hackathon)**  
+ Segmentation of BPI customers in far-flung areas using RFM Analysis + K‑Means (with PCA).
 
 ---
 
