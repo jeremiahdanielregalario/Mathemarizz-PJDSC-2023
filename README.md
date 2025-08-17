@@ -209,7 +209,29 @@ jupyter notebook eda.ipynb
 
 ## 📚 References
 
-A full list of references and research resources used by the team is included in the project documentation (Kaggle notebooks, Analytics Vidhya posts, DataReportal Philippines, Google ML clustering references, etc.).
+The project referenced the following resources and notebooks during development:
+
+1. Chandra, M. G. (2021). *9 Clustering Techniques for Customer Segmentation*. Kaggle. https://www.kaggle.com/code/gaganmaahi224/9-clustering-techniques-for-customer-segmentation/notebook#Data-visualisation
+2. Connectif. (2022, July 18). *What Are RFM Scores and How to Calculate Them*. https://connectif.ai/en/blog/what-are-rfm-scores-and-how-to-calculate-them/
+3. DataReportal. (2023, February 9). *Digital 2023: Philippines*. https://datareportal.com/reports/digital-2023-philippines
+4. Google Developers. (n.d.). *Advantages and Disadvantages of Clustering Algorithms*. https://developers.google.com/machine-learning/clustering/algorithm/advantages-disadvantages
+5. Kar, S. (2021). *Customer Segmentation - EDA & Clustering (K-Means)*. Kaggle. https://www.kaggle.com/code/sonerkar/customer-segmentation-eda-clustering-kmeans
+6. Kwiatkowska, P. (2019). *Bank Customer Segmentation*. Kaggle. https://www.kaggle.com/code/paulinan/bank-customer-segmentation
+7. LinkedIn. (n.d.). *How Do You Validate and Compare Clustering Results with Missing Data?* https://www.linkedin.com/advice/3/how-do-you-validate-compare-clustering-results-missing
+8. Mohanty, S. K. (2021). *Customer Segmentation - K-Means, DBSCAN, GMM, Agglo*. Kaggle. https://www.kaggle.com/code/sidharth178/customer-segmentation-kmeans-dbscan-gmm-agglo
+9. MoneyMax Philippines. (2017, December 27). *Savings Account vs. Current Account*. https://www.moneymax.ph/personal-finance/articles/savings-account-vs-current-account
+10. Ryzhkov, E. (2020, July 23). *5 Stages of Data Preprocessing for K-Means Clustering*. Medium. https://medium.com/@evgen.ryzhkov/5-stages-of-data-preprocessing-for-k-means-clustering-b755426f9932
+11. Sethi, A. (2023, July 15). *One-Hot Encoding vs. Label Encoding using scikit-learn*. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/
+12. Sharma, A. (2020, September 7). *How to Master the Popular DBSCAN Clustering Algorithm for Machine Learning*. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/
+13. Shawky Elgendy. (n.d.). *Customer Segmentation - EDA, K-Means, PCA*. Kaggle. https://www.kaggle.com/code/shawkyelgendy/customer-segmentation-eda-k-means-pca
+14. Yadav, N. (n.d.). *Customer Segmentation using K-Means, HC, DBSCAN*. Kaggle. https://www.kaggle.com/code/niteshyadav3103/customer-segmentation-using-kmeans-hc-dbscan
+15. Chandra, M. G. (2021). *9 Clustering Techniques for Customer Segmentation*. Kaggle. https://www.kaggle.com/code/gaganmaahi224/9-clustering-techniques-for-customer-segmentation/notebook#Data-visualisation
+
+### AI & Tooling references cited by the team
+
+- ChatGPT. (2023, September 21). *Customer Segmentation Guide*. https://chat.openai.com/share/124cd1ab-0564-45a4-9997-9bd13cb0f1e5
+- ChatGPT. (2023, October 13). *Insurance Requirements by Employment Type*. https://chat.openai.com/share/ba9d0e8b-a6c0-475a-9c0f-ba0c603af40d
+- Claude (Anthropic). (2023, October 13). *Key elements of a health insurance business model*.
 
 ---
 
