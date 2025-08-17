@@ -16,11 +16,11 @@ This repository contains an exploratory data analysis (EDA) for the **Philippine
 - [Analysis pipeline](#analysis-pipeline)
 - [Key questions we answer](#key-questions-we-answer)
 - [Key findings (summary)](#key-findings-summary)
-- [Visualizations (placeholders)](#visualizations-placeholders)
+- [Visualizations](#visualizations-placeholders)
 - [How to run](#how-to-run)
 - [Project structure](#project-structure)
 - [Contributing](#contributing)
-- [License & contact](#license--contact)
+- [License](#license--contact)
 
 ---
 
@@ -68,7 +68,7 @@ The notebook follows a canonical EDA pipeline:
 
 ---
 
-## Key questions we answer
+## Key Fidings
 
 These are the business / analytic questions present in the notebook — update the answers with the notebook outputs:
 
@@ -185,6 +185,6 @@ If you want to regenerate figures programmatically, run the notebook end-to-end 
 
 ---
 
-## License & contact
+## License
 
 This project is licensed under the MIT License 
