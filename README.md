@@ -1,6 +1,6 @@
-# Philippine Junior Data Science Challenge 2 — Exploratory Data Analysis
+> D.A.T.A. WAVE SUMMIT – PHILIPPINE JUNIOR DATA SCIENCE CHALLENGE (HACKATHON) FINANCIAL INCLUSION PROJECT
 
-> **Repository README** — EDA notebook + supporting files.
+# Philippine Junior Data Science Challenge 2 — Exploratory Data Analysis
 
 ## Project summary
 
