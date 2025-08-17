@@ -78,7 +78,8 @@ We designed three tiered packages with accessibility and simplicity in mind. The
 | **LK Silver** | **₱500** | ₱1,900 | ₱2,800 | ₱5,500 (10 yrs option) | ₱80,000 | ₱100/day | 1 one‑way (to & fro) | 1 month (with proof) |
 | **LK Gold** | **₱800** | ₱3,100 | ₱4,600 | ₱9,000 (10 yrs option) | ₱120,000 | ₱170/day | 1 one‑way (to & fro) | 2 months |
 | **LK Platinum** | **₱1,000** | ₱3,100* | ₱4,600* | ₱9,000* | ₱150,000 | ₱200/day | 2 one‑ways | 2 months |
-\* (Note: semi/annual/annual pricing for Platinum adjusted for demonstration — confirm with actuarial pricing.)
+
+> (Note: semi/annual/annual pricing for Platinum adjusted for demonstration — confirm with actuarial pricing.)
 
 > Tip: Use the **monthly** price as the quick affordability metric for customer outreach communications.
 
